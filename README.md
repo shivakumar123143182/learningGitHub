@@ -1,2 +1,2 @@
 # learningGitHub
-I am here to Learn how Github Works 
+I am here to Learn how Github Works.
